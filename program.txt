@@ -5,10 +5,17 @@ Main()
 
 metho()
 {
-	print "my name is Ð¡·Éµ¶";
+	print "my name is "+name;
 }
 
 test()
 {
 	print "test is test";
 }
+
+show()
+{
+	string name="Ð¡·Éµ¶";
+	method(name);
+}
+
