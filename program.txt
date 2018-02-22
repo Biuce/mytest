@@ -7,3 +7,8 @@ metho()
 {
 	print "my name is Ð¡·Éµ¶";
 }
+
+test()
+{
+	print "test is test";
+}
